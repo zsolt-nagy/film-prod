@@ -1,0 +1,25 @@
+.form-item {
+    display: flex;
+    margin: 15px;
+    align-items: flex-start;
+}
+
+.text-field {
+    margin-left: 10px;
+}
+
+label {
+    cursor: pointer;
+}
+
+input[type=text]:hover {
+    border-color: lightblue;
+    
+}
+
+.btn-style {
+    border-radius: 7px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    background-color: 	rgba(128, 255, 0, .50);
+}

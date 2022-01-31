@@ -1,0 +1,20 @@
+.headstuff {
+    background: url("../Images/cinema.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 2px 2px white;
+}
+
+p {
+    text-align: left;
+   
+}
+
+.checklist {
+    text-align: left;
+   
+}

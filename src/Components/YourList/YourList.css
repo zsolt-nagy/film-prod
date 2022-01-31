@@ -1,0 +1,8 @@
+.body-style {
+    background-color: 	rgb(242, 242, 242);
+}
+
+.btn-delete {
+    margin-left: 10px;
+    background-color: rgba(255, 0, 0, .50);
+}
